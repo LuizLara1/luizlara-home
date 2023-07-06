@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Unicamp - Br 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Differential Geometry:** gauge theory, spectral geometry, homogeneous spaces. 
+- **Machine Learning:** ML methods in Lie theory and spectral theory.
 
 ## News
 

@@ -1,22 +1,21 @@
 ---
 layout: homepage
+imecc: https://ime.unicamp.br
+unicamp: https://www.unicamp.br/unicamp/index.php/english
 ---
 
 ## About Me
 
-I am a Ph.D. student at Unicamp - Br 
+I am a PhD candidate at the <a href="{{page.imecc}}">IMECC</a>, <a href="{{page.unicamp}}">Unicamp</a>, Br. My current research is divided into two fronts: the first one is summarized in the study of the Ginzburg-Landau functional on compact Kähler manifolds in higher dimensions, while the second one consists of investigating the behavior of the eigenvalues of the Laplace operator on homogeneous spaces, hopefully using Machine Learning techniques.  
 
 ## Research Interests
 
 - **Differential Geometry:** gauge theory, spectral geometry, homogeneous spaces. 
 - **Machine Learning:** ML methods in Lie theory and spectral theory.
 
-## News
+[comment]: ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+[comment]: - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 
 {% include_relative _includes/publications.md %}
 

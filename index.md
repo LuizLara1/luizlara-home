@@ -10,8 +10,8 @@ I am a PhD candidate at the <a href="{{page.imecc}}">IMECC</a>, <a href="{{page.
 
 ## Research Interests
 
-- **Differential Geometry:** gauge theory, spectral geometry, homogeneous spaces. 
-- **Machine Learning:** ML methods in Lie theory and spectral theory.
+- **Differential Geometry:** gauge theory, variational calculus, geometric analysis. 
+- **Algebraic Geometry:** stability conditions, constructions of stable sheaves.
 
 [comment]: ## News
 

@@ -13,7 +13,8 @@ I am a PhD candidate at the <a href="{{page.imecc}}">IMECC</a>, <a href="{{page.
 - **Differential Geometry:** gauge theory, variational calculus, geometric analysis. 
 - **Algebraic Geometry:** stability conditions, constructions of stable sheaves.
 
-[comment]: ## News
+## News
+The preview version of my PhD Thesis is now available! 
 
 [comment]: - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 

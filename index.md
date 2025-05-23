@@ -6,7 +6,12 @@ unicamp: https://www.unicamp.br/unicamp/index.php/english
 
 ## About Me
 
-I am a PhD candidate at the <a href="{{page.imecc}}">IMECC</a>, <a href="{{page.unicamp}}">Unicamp</a>, Br. My current research is divided into two fronts: the first one is summarized in the study of the Ginzburg-Landau functional on compact Kähler manifolds in higher dimensions, while the second one consists of investigating the behavior of the eigenvalues of the Laplace operator on homogeneous spaces, hopefully using Machine Learning techniques.  
+I am a PhD candidate at the <a href="{{page.imecc}}">IMECC</a>, <a href="{{page.unicamp}}">Unicamp</a>, Brazil.
+
+I am a researcher in differential and algebraic geometry. My work primarily focuses on gauge theory, with a particular interest in variational aspects of the Yang–Mills–Higgs functional.
+
+
+I also study the construction of Bridgeland stable vector bundles associated with solutions to the deformed Hermitian–Yang–Mills equation.
 
 ## Research Interests
 

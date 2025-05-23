@@ -6,7 +6,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.researchgate.net/publication/368840428_Spectrum_of_Bochner-Laplace_operator_on_homogeneous_vector_bundles_over_CPn"> Analytic and algebraic problems in contemporary Yang--Mills theory</a></div>
+    <div class="title"><a href="PDF/D___Luiz_Lara.pdf"> Analytic and algebraic problems in contemporary Yang--Mills theory</a></div>
     <div class="author"><strong>Luiz Lara</strong></div>
     <div class="periodical"><em> PhD Thesis - preview before defense</em></div>
     <div class="links">
